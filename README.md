@@ -1,5 +1,4 @@
 # 2024-2025 N&N Ecommerce Sales Trend Analysis
-N&amp;N Electronics sought to shift focus from rapid expansion toward profitability optimization. This analysis uncovered key revenue drivers, exposed a persistent 8.6% return leakage, and identified high-value customer segments to guide smarter budget and portfolio decisions.
 
 > For full analysis, visit my [Portfolio](https://dolomite-crabapple-a28.notion.site/2024-2025-N-N-Ecommerce-Sales-Trend-Analysis-30b529d3f37d804ead3ff0d96012e3aa)
 
